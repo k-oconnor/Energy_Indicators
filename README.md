@@ -1,2 +1,2 @@
 # energyindicators
-Final project for undergraduate econometrics - I used leading energy indicators to forecast how deep the COVD-19 economic shocks would impact GDP.
+Final project for undergraduate econometrics - I used leading energy indicators to forecast the depth of the initial COVID-19 economic shocks.
